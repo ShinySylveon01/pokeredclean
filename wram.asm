@@ -1515,6 +1515,7 @@ wBattleMon:: battle_struct wBattleMon
 wTrainerClass::
 	ds 1
 
+wTrainerPicBank::
 	ds 1
 
 wTrainerPicPointer::
