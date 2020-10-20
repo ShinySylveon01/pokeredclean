@@ -1980,6 +1980,8 @@ wMonHGrowthRate::
 wMonHLearnset::
 ; bit field
 	flag_array 50 + 5
+	
+wMonHSpriteBank:: ; d0d3
 	ds 1
 
 wSavedTilesetType::

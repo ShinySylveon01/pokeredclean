@@ -122,11 +122,6 @@ DoduoPicFront::       INCBIN "gfx/pokemon/front/doduo.pic"
 DoduoPicBack::        INCBIN "gfx/pokemon/back/doduob.pic"
 PoliwagPicFront::     INCBIN "gfx/pokemon/front/poliwag.pic"
 PoliwagPicBack::      INCBIN "gfx/pokemon/back/poliwagb.pic"
-JynxPicFront::        INCBIN "gfx/pokemon/front/jynx.pic"
-JynxPicBack::         INCBIN "gfx/pokemon/back/jynxb.pic"
-MoltresPicFront::     INCBIN "gfx/pokemon/front/moltres.pic"
-MoltresPicBack::      INCBIN "gfx/pokemon/back/moltresb.pic"
-
 
 SECTION "Pics 3", ROMX
 
@@ -194,10 +189,7 @@ PoliwrathPicFront::   INCBIN "gfx/pokemon/front/poliwrath.pic"
 PoliwrathPicBack::    INCBIN "gfx/pokemon/back/poliwrathb.pic"
 WeedlePicFront::      INCBIN "gfx/pokemon/front/weedle.pic"
 WeedlePicBack::       INCBIN "gfx/pokemon/back/weedleb.pic"
-KakunaPicFront::      INCBIN "gfx/pokemon/front/kakuna.pic"
-KakunaPicBack::       INCBIN "gfx/pokemon/back/kakunab.pic"
-BeedrillPicFront::    INCBIN "gfx/pokemon/front/beedrill.pic"
-BeedrillPicBack::     INCBIN "gfx/pokemon/back/beedrillb.pic"
+
 
 FossilKabutopsPic::   INCBIN "gfx/pokemon/front/fossilkabutops.pic"
 
@@ -258,10 +250,6 @@ AlakazamPicFront::     INCBIN "gfx/pokemon/front/alakazam.pic"
 AlakazamPicBack::      INCBIN "gfx/pokemon/back/alakazamb.pic"
 PidgeottoPicFront::    INCBIN "gfx/pokemon/front/pidgeotto.pic"
 PidgeottoPicBack::     INCBIN "gfx/pokemon/back/pidgeottob.pic"
-PidgeotPicFront::      INCBIN "gfx/pokemon/front/pidgeot.pic"
-PidgeotPicBack::       INCBIN "gfx/pokemon/back/pidgeotb.pic"
-StarmiePicFront::      INCBIN "gfx/pokemon/front/starmie.pic"
-StarmiePicBack::       INCBIN "gfx/pokemon/back/starmieb.pic"
 
 RedPicBack::           INCBIN "gfx/player/redb.pic"
 OldManPic::            INCBIN "gfx/battle/oldman.pic"
@@ -317,6 +305,9 @@ GloomPicFront::        INCBIN "gfx/pokemon/front/gloom.pic"
 GloomPicBack::         INCBIN "gfx/pokemon/back/gloomb.pic"
 VileplumePicFront::    INCBIN "gfx/pokemon/front/vileplume.pic"
 VileplumePicBack::     INCBIN "gfx/pokemon/back/vileplumeb.pic"
+
+SECTION "Pics 6", ROMX
+
 BellsproutPicFront::   INCBIN "gfx/pokemon/front/bellsprout.pic"
 BellsproutPicBack::    INCBIN "gfx/pokemon/back/bellsproutb.pic"
 WeepinbellPicFront::   INCBIN "gfx/pokemon/front/weepinbell.pic"
@@ -325,7 +316,24 @@ VictreebelPicFront::   INCBIN "gfx/pokemon/front/victreebel.pic"
 VictreebelPicBack::    INCBIN "gfx/pokemon/back/victreebelb.pic"
 
 
-SECTION "Pics 6", ROMX
+SECTION "Pics 7", ROMX
+
+KakunaPicFront::      INCBIN "gfx/pokemon/front/kakuna.pic"
+KakunaPicBack::       INCBIN "gfx/pokemon/back/kakunab.pic"
+BeedrillPicFront::    INCBIN "gfx/pokemon/front/beedrill.pic"
+BeedrillPicBack::     INCBIN "gfx/pokemon/back/beedrillb.pic"
+JynxPicFront::        INCBIN "gfx/pokemon/front/jynx.pic"
+JynxPicBack::         INCBIN "gfx/pokemon/back/jynxb.pic"
+MoltresPicFront::     INCBIN "gfx/pokemon/front/moltres.pic"
+MoltresPicBack::      INCBIN "gfx/pokemon/back/moltresb.pic"
+
+SECTION "Pics 8", ROMX
+PidgeotPicFront::      INCBIN "gfx/pokemon/front/pidgeot.pic"
+PidgeotPicBack::       INCBIN "gfx/pokemon/back/pidgeotb.pic"
+StarmiePicFront::      INCBIN "gfx/pokemon/front/starmie.pic"
+StarmiePicBack::       INCBIN "gfx/pokemon/back/starmieb.pic"
+
+SECTION "Pics 9", ROMX
 
 TrainerPics::
 YoungsterPic::     INCBIN "gfx/trainers/youngster.pic"
